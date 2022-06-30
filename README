@@ -1,0 +1,8 @@
+This is a project created on kotlin and dart which is inspired by spotify
+the song data is collected from spotify and the preview url is fetched from itunes which provide 30 sec free sample
+
+there are majorly 3 screens 
+Home, Search and Library 
+appdata is used to bind all the screens together
+
+the pubspec.yaml file is also updated to get fonts, icons and add the audio functionality 
